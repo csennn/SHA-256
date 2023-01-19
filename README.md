@@ -1,1 +1,2 @@
 # SHA-256
+SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function that produces a 256-bit hash value (fixed size output) from an input of any size. It is one of the most widely used cryptographic hash functions and is part of the SHA-2 family of hash functions. It is commonly used to verify the integrity of data by generating a hash of the original data and then comparing it to a hash of the received data. It is also commonly used as a component in other cryptographic protocols such as digital signature schemes.
